@@ -1,4 +1,4 @@
-# Welcome to my Odin Project "PROJECTS" 
+# Welcome to my Odin Project "I call this a TOP TIMELINE" 
 ---
 This parent directory allows you to see all of my completed and pended projects on the Odin Project. 
 
