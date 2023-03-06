@@ -22,9 +22,13 @@ I really know that The Odin Project is pretty hard for newbies like me, and the 
 
 But, I realized that to study ODIN you must consistently push yourself through the limits and all above that you need to become discipline and productive in order to achieve and abosrob the content like sponge and work flawlessly. 
 
-So, this is one of my first initiation that adding my journey through the TOP with this Readme.md file. 
+So, this is one of my first initiation that adding my journey through the TOP with this Readme.md file. Also, I use several techniques to stay motivate discipline my entire journey, One technique is that I use Pomodro timer, Each sessions consist of 25 minutes., If the Each session completes then it equals to 1 Pomodro. 
+
+This is how I personally recording my timelines and also here to help y'all out at ease.
+
+**My Personal Mantra**: I don't want to break my warrior's code despite of having hardship through my nightshit career (9-12 hours a day)
 
 I'll update this readme file everyday, and How I surpassed my day with The Odin Project. So let's get started. 
 
-
+## My Odin Project Journey. 
 
