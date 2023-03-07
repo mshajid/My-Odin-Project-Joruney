@@ -36,6 +36,11 @@ I'll update this readme file everyday, and How I surpassed my day with The Odin 
 This section allows me to track my hours of dedication explicitly. 
 **1 Pomodro** = 25 minutes.
 
+
+|    | **Hours** |
+|:----------:|:---------:|
+| Total | 15 Hours & 42 Minutes |
+
 |  **Date**  | **Hours** | **Pomodros** |
 |:----------:|:---------:|:------------:|
 | 06.02.2023 | 3.3 Hours |      8       |
