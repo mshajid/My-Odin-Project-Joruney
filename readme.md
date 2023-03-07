@@ -37,7 +37,7 @@ This section allows me to track my hours of dedication explicitly.
 **1 Pomodro** = 25 minutes.
 
 
-|    | **Hours** |
+|  💪 | **Hours** |
 |:----------:|:---------:|
 | Total | 15 Hours & 42 Minutes |
 
