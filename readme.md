@@ -31,6 +31,10 @@ This is how I personally recording my timelines and also here to help y'all out 
 I'll update this readme file everyday, and How I surpassed my day with The Odin Project. So let's get started. 
 
 ## My Odin Project Journey. 
+---
+
+This section allows me to track my hours of dedication explicitly. 
+**1 Pomodro** = 25 minutes.
 
 |  **Date**  | **Hours** | **Pomodros** |
 |:----------:|:---------:|:------------:|
