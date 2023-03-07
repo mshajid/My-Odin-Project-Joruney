@@ -32,3 +32,6 @@ I'll update this readme file everyday, and How I surpassed my day with The Odin 
 
 ## My Odin Project Journey. 
 
+|  **Date**  | **Hours** | **Pomodros** |
+|:----------:|:---------:|:------------:|
+| 06.02.2023 | 3.1 Hours |      15      |
