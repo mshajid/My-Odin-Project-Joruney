@@ -34,4 +34,4 @@ I'll update this readme file everyday, and How I surpassed my day with The Odin 
 
 |  **Date**  | **Hours** | **Pomodros** |
 |:----------:|:---------:|:------------:|
-| 06.02.2023 | 3.1 Hours |      15      |
+| 06.02.2023 | 3.3 Hours |      8       |
