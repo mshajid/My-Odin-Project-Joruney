@@ -43,6 +43,6 @@ This section allows me to track my hours of dedication explicitly.
 
 |  **Date**  | **Hours** | **Pomodros** |
 |:----------:|:---------:|:------------:|
-| 06.02.2023 | 3.3 Hours |      8       |
-| 06.03.2023 | 2.3 Hours |      6       |
+| 06.03.2023 | 3.3 Hours |      8       |
+| 07.03.2023 | 2.3 Hours |      6       |
 | 08.03.2023 |    #NA    |     #NA      | 
